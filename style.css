@@ -1,0 +1,21 @@
+<style>
+h1{
+    color: red;
+}
+h1.Sem{
+    margin-left: 700px;
+    margin-top: -300px;
+    color: red;
+}
+
+table{
+    margin: auto;
+    border-width: 10px;
+}
+th{
+   font-size: 30px;
+}
+td{
+    font-size: 25px;
+}
+</style>
